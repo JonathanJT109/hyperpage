@@ -6,12 +6,12 @@
 }
 
 #header-container{
-    background-color: #fbfbfb;
+    background-color: #d48787;
     margin: 10px;
     border-radius: 10px;
 }
 
 .header-text{
-    background-color: #fbfbfb;
-    color: black;
+    background-color: #d48787;
+    color: #c9c9c9;
 }
