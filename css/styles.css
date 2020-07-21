@@ -4,3 +4,14 @@
     font-family: "Open Sans";
     background-color: #828282;
 }
+
+#header-container{
+    background-color: #fbfbfb;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.header-text{
+    background-color: #fbfbfb;
+    color: black;
+}
